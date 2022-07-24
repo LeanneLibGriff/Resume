@@ -1,14 +1,15 @@
 
 {% include sidebar.html %}
-## About
 
-I am a qualified librarian with experience in academic libraries ranging from frontline customer service, information literacy instruction, acquisitions, and resource discovery. I have a flexible, proactive, and collaborative approach combined with a strong focus on quality outcomes for the end client.
+I am a qualified librarian with experience in academic libraries ranging from frontline customer service, information literacy instruction, acquisitions, and resource discovery. I have a flexible, proactive, and collaborative approach combined with a strong focus on quality outcomes for all stakeholders.
+I am passionate about the positive impact libraries have on university outcomes from the student experience through to research impact. 
+
 
 ## Professional Experience
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Griffith University      | Head, Academic Engagement Services, Library        |2019 - Present|
-| The Carpentries | Community and Communications Lead | 2017 - 2019 |
+| Griffith University      | Acting Discipline Librarian, Researcher Servcies, Academic Engagement Services        |2021 - Present|
+| Griffith University | Acting Librarian, Reseracher Services, Academic Engagement Services | 2021 |
 | Queensland Cyber Infrastructure Foundation | eResearch Analyst Team Leader |2013 - 2017|
 | Queensland Cyber Infrastructure Foundation | Training Coordinator |2012 - 2013 |
 | AustLit | Senior Project Officer  | 2012 - 2013 |
@@ -18,19 +19,19 @@ I am a qualified librarian with experience in academic libraries ranging from fr
 
 ## Skills
 
-- OpenRefine
-- Markdown
-- Git/GitHub
+- Advanced EndNote
+- Systematic Literature Reviews
+- Res
 - Open research
 
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Arts | The University of Queensland          | 1976 |
-| Registration Certificate | Library Association of Australia |  1979 |
-| Graduate Certificate in Journalism | The University of Queensland  | 2001 |
-| Diploma of Project Management | Australian Institute of Management | 2008 |
-| Master of Philosophy | The University of Queensland          | 2019 |
+| Bachelor of Nursing | QUT          | 2000 |
+| Graduate Diploma in Library and Information Managementment | UniSA |  2015 |
+| Graduate Certificate in Education | QUT  | 2022 |
+| Master of Education (in progress) | UniSA |   |
+
 
 ## Awards
 - Fellow, Python Software Foundation, 2017.
