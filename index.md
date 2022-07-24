@@ -52,7 +52,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 ## Presentations and Conferences
 - Systematic Reviews for Griffith Sciences: challenges and opportunites, Australia and New Zealand STEM Librarians Webinar June 2022
-- How’s that for timing? The introduction of Teams online consultations at Griffith Library. ALIA Survival Webinar Series September 2020 
-- Higher Education Academy (HEA) experience and digital badges. Video presentation at the request of Learning Futures, Griffith University September 2020
+- [How’s that for timing? The introduction of Teams online consultations at Griffith Library](https://youtu.be/7bFWYk8AvSU?t=2314). ALIA Survival Webinar Series September 2020 
+- [Higher Education Academy (HEA) experience and digital badges.](https://youtu.be/J3LBYLPVBL8) Video presentation at the request of Learning Futures, Griffith University September 2020
 
 This page was last updated {{ site.datelastupdated }} .
