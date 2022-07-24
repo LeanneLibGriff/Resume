@@ -49,7 +49,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 - [EndNote Basics Tutorial](https://sway.office.com/n3nosFqHmbyopBXu?ref=Link), joint project with Librarians from Academic Engagement Services, responsible for videos four and five of the tutorial
 
 ## Projects
-**AES Online Consultation Project (Project Lead): moving online library consultations to a single, secure platform
+### AES Online Consultation Project (Project Lead): moving online library consultations to a single, secure platform
 
  The project delivered a consistent, quality client experience, promoted collaboration within AES and provided seamless on-boarding of new staff. 
  During implementation, the project consulted with several teams including Enterprise Information Systems, Learning Futures, the Accelerated Online Learning team within student administration and Frontline Library Services. 
