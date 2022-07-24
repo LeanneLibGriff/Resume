@@ -9,13 +9,13 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Griffith University      | Acting Discipline Librarian, Researcher Servcies, Academic Engagement Services        |2021 - Present|
-| Griffith University | Acting Librarian, Reseracher Services, Academic Engagement Services | 2021 |
-| Griffith University | Librarian (Health), Teaching & Learning, Academic Engagement Services |2019 - 2021|
-| Griffith University | Librarian (Business), Teaching & Learning, Academic Engagement Services |2019 |
-| Griffith University | Library Resource Officer, Scholarly Resources Services  | 2017 - 2019 |
-| Griffith University | Librarian (Acting 3 months) Scholarly Resource Services  |2019 |
-| Griffith University | Library Resource Officer, Scholarly Resources Services  | 2017 - 2019 |
-| Griffith University | Team Member, Library Campus Services | 2015 - 2017 |
+|  | Acting Librarian, Reseracher Services, Academic Engagement Services | 2021 |
+|  | Librarian (Health), Teaching & Learning, Academic Engagement Services |2019 - 2021|
+|  | Librarian (Business), Teaching & Learning, Academic Engagement Services |2019 |
+|  | Library Resource Officer, Scholarly Resources Services  | 2017 - 2019 |
+|  | Librarian (Acting 3 months) Scholarly Resource Services  |2019 |
+|  | Library Resource Officer, Scholarly Resources Services  | 2017 - 2019 |
+|  | Team Member, Library Campus Services | 2015 - 2017 |
 |Queensland Health | Registered Nurse (various departments) - Vasuclar & Thoracic Surgical, High Dependency, Neurology, General Medical | 2000 – 2012  |
 
 
