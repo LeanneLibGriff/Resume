@@ -38,6 +38,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 ## Awards
 - Excellence in Enhanced Teaching - Team Award - Highly Commended. Issued by the Vice Chancellor's Awards for Excellence in Professional and Support Staff. November 2020
+- Outstanding Team Client Service to Students - Team Award - Highly Commended. Issued by the Vice Chancellor's Awards for Excellence in General Staff Services. January 2015
 
 
 
