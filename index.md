@@ -24,7 +24,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 - Systematic Literature Reviews
 - Instructional Learning Design
 - Research Metrics and Research Profiles
-- Reproducible research
+- Reproducible Research
 
 ## Education
 
@@ -37,9 +37,9 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 
 ## Awards
+- Excellence in Enhanced Teaching - Team Award - Highly Commended. Issued by the Vice Chancellor's Awards for Excellence in Professional and Support Staff. November 2020
 - 
-- Winner, Margaret Waugh Bursary, UQ Alumni Association, 2006.
-- ALIA Queensland Library Achiever of the Year, 2003.
+
 
 ## eLearning Resources
 - APA7 Referencing Support Videos 
