@@ -48,6 +48,12 @@ I am passionate about the positive impact libraries have on university outcomes 
 - [Online Referencing Activity for Human Services and Social Work](https://sway.office.com/XvZ8CDHyYaY3UfWX?ref=Link) - Sway Presentation - Over 23,000 views
 - [EndNote Basics Tutorial](https://sway.office.com/n3nosFqHmbyopBXu?ref=Link), joint project with Librarians from Academic Engagement Services, responsible for videos four and five of the tutorial
 
+## Project
+- AES Online Consultation Project (Project Lead): moving online consultations to a single, secure platform
+>The project delivered a consistent, quality client experience, promoted collaboration within AES and provided seamless on-boarding of new staff. 
+During implementation, the project consulted with several teams including Enterprise Information Systems, Learning Futures, the Accelerated Online Learning team within student administration and Frontline Library Services. 
+User testing was conducted with student library rovers and persons external to Griffith to ensure the clarity of student facing instructions and robustness of the recommended platform. 
+High quality support resources were developed including How-to videos, email templates, troubleshooting guides and online feedback forms.
 
 
 ## Presentations and Conferences
