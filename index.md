@@ -38,7 +38,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 ## Awards
 - Excellence in Enhanced Teaching - Team Award - Highly Commended. Issued by the Vice Chancellor's Awards for Excellence in Professional and Support Staff. November 2020
-- 
+
 
 
 ## eLearning Resources
@@ -50,6 +50,6 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 ## Presentations and Conferences
 - Systematic Reviews for Griffith Sciences: challenges and opportunites, Australia and New Zealand STEM Librarians Webinar June 2022
-- 
+- How’s that for timing? The introduction of Teams Online consultation at Griffith Library. ALIA Survival Webinar Series June 2020 
 
 This page was last updated {{ site.datelastupdated }} .
