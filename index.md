@@ -10,12 +10,14 @@ I am passionate about the positive impact libraries have on university outcomes 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Griffith University      | Acting Discipline Librarian, Researcher Servcies, Academic Engagement Services        |2021 - Present|
 | Griffith University | Acting Librarian, Reseracher Services, Academic Engagement Services | 2021 |
-| Griffith University | Librarian (Health), Teaching & Learning, Academic Engagement Services |2013 - 2017|
-| Queensland Cyber Infrastructure Foundation | Training Coordinator |2012 - 2013 |
-| AustLit | Senior Project Officer  | 2012 - 2013 |
-|The University of Queensland | Manager, Research Data Collections | March, 2011 – April, 2012  |
-|The University of Queensland | Manager, Biological Sciences Library | January, 2010 – March, 2011  |
-|The University of Queensland | Project Manager, UQ International | 2008 - 2009 |
+| Griffith University | Librarian (Health), Teaching & Learning, Academic Engagement Services |2019 - 2021|
+| Griffith University | Librarian (Business), Teaching & Learning, Academic Engagement Services |2019 |
+| Griffith University | Library Resource Officer, Scholarly Resources Services  | 2017 - 2019 |
+| Griffith University | Librarian (Acting 3 months) Scholarly Resource Services  |2019 |
+| Griffith University | Library Resource Officer, Scholarly Resources Services  | 2017 - 2019 |
+| Griffith University | Team Member, Library Campus Services | 2015 - 2017 |
+|Queensland Health | Registered Nurse (various departments) - Vasuclar & Thoracic Surgical, High Dependency, Neurology, General Medical | 2000 – 2012  |
+
 
 ## Skills
 - Advanced EndNote
@@ -30,7 +32,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 | Bachelor of Nursing | QUT          | 2000 |
 | Graduate Diploma in Library and Information Managementment | UniSA |  2015 |
 | Graduate Certificate in Education | QUT  | 2022 |
-| Master of Education (in progress) | UniSA |   |
+| Master of Education (in progress) | UniSA | ---  |
 
 
 ## Awards
