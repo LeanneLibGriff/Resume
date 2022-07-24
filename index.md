@@ -32,20 +32,24 @@ I am passionate about the positive impact libraries have on university outcomes 
 | Bachelor of Nursing | QUT          | 2000 |
 | Graduate Diploma in Library and Information Managementment | UniSA |  2015 |
 | Graduate Certificate in Education | QUT  | 2022 |
-| Master of Education (in progress) | UniSA | ---  |
+| Master of Education (in progress) | UniSA | ------  |
+| Associate Fellow | Higher Education Academy | 2020  |
 
 
 ## Awards
-- Fellow, Python Software Foundation, 2017.
+- 
 - Winner, Margaret Waugh Bursary, UQ Alumni Association, 2006.
 - ALIA Queensland Library Achiever of the Year, 2003.
 
 ## eLearning Resources
-- Member, Library Carpentry Governance Group 2018.
-- Community-elected member, Software Carpentry Steering Committee (2016, 2017).
-- Member of the Collections Advisory Group, State Library of Queensland, 2006-2009.
+- APA7 Referencing Support Videos 
+- Effective Database Searching - Sway Presentation 
+- Online Referencing Activity for Human Services and Social Work - Sway Presentation - Over 23,000 views
+- EndNote Basics Tutorial (joint project)
+- 
 
-## Conferences
-
+## Presentations and Conferences
+- Systematic Reviews for Griffith Sciences: challenges and opportunites, Australia and New Zealand STEM Librarians Webinar June 2022
+- 
 
 This page was last updated {{ site.datelastupdated }} .
