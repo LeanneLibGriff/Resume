@@ -10,7 +10,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Griffith University      | Acting Discipline Librarian, Researcher Servcies, Academic Engagement Services        |2021 - Present|
 | Griffith University | Acting Librarian, Reseracher Services, Academic Engagement Services | 2021 |
-| Queensland Cyber Infrastructure Foundation | eResearch Analyst Team Leader |2013 - 2017|
+| Griffith University | Librarian (Health), Teaching & Learning, Academic Engagement Services |2013 - 2017|
 | Queensland Cyber Infrastructure Foundation | Training Coordinator |2012 - 2013 |
 | AustLit | Senior Project Officer  | 2012 - 2013 |
 |The University of Queensland | Manager, Research Data Collections | March, 2011 – April, 2012  |
@@ -18,11 +18,11 @@ I am passionate about the positive impact libraries have on university outcomes 
 |The University of Queensland | Project Manager, UQ International | 2008 - 2009 |
 
 ## Skills
-
 - Advanced EndNote
 - Systematic Literature Reviews
-- Res
-- Open research
+- Instructional Learning Design
+- Research Metrics and Research Profiles
+- Reproducible research
 
 ## Education
 
