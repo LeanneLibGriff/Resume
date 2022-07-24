@@ -1,7 +1,10 @@
 
 {% include sidebar.html %}
+## About
 
-I am a qualified librarian with diverse experience in Academic libraries from frontline customer service, information literacy instruction, acquisitions, and resource discovery. I have a flexible, proactive, and collaborative approach combined with a strong focus on quality outcomes for the end client.
+| ------------------------------------- | ------------------------------------------- | ----- |
+I am a qualified librarian with experience in academic libraries ranging from frontline customer service, information literacy instruction, acquisitions, and resource discovery. I have a flexible, proactive, and collaborative approach combined with a strong focus on quality outcomes for the end client.
+
 ## Professional Experience
 
 | ------------------------------------- | ------------------------------------------- | ----- |
