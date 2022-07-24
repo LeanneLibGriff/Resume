@@ -5,5 +5,5 @@ selfIdentification: Acting Discipline Librarian  Griffith Library
 colour1: "##195e92"  # sidebar background 
 colour2: "##e5e6e6"  # colour of name and desc
 colour3: "##e5e6e6"  # colour of Menu links
-colour4: "##e5e6e6" # trying to be background colour - still experimenting 
+colour4: "#f2f1ec" # trying to be background colour - still experimenting 
 colour5: "#A4A4A4" # menu link colour when hover
