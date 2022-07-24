@@ -48,7 +48,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 - [Online Referencing Activity for Human Services and Social Work](https://sway.office.com/XvZ8CDHyYaY3UfWX?ref=Link) - Sway Presentation - Over 23,000 views
 - [EndNote Basics Tutorial](https://sway.office.com/n3nosFqHmbyopBXu?ref=Link), joint project with Librarians from Academic Engagement Services, responsible for videos four and five of the tutorial
 
-## Project
+## Projects
 **AES Online Consultation Project (Project Lead): moving online consultations to a single, secure platform
 
  The project delivered a consistent, quality client experience, promoted collaboration within AES and provided seamless on-boarding of new staff. 
