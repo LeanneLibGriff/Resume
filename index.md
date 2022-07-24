@@ -43,11 +43,11 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 
 ## eLearning Resources
-- APA7 Referencing Support Videos 
-- Effective Database Searching - Sway Presentation - developed at the request of Dr Mark Avery for the Masters of Health Service Management
-- Online Referencing Activity for Human Services and Social Work - Sway Presentation - Over 23,000 views
+- [APA7 Referencing Support Videos](https://www.griffith.edu.au/library/study/referencing/apa-7) 
+- [Effective Database Searching](https://sway.office.com/PDOD6ED0AB6GJdb8?ref=Link) - Sway Presentation - developed at the request of Dr Mark Avery for the Masters of Health Service Management
+- [Online Referencing Activity for Human Services and Social Work](https://sway.office.com/XvZ8CDHyYaY3UfWX?ref=Link) - Sway Presentation - Over 23,000 views
 - EndNote Basics Tutorial, joint project with Librarians from Academic Engagement Services, responsible for videos four and five of the tutorial
-- Research Data Management, self paced tutorial produced on GitHub, please note: IN DEVELOPMENT.
+- Research Data Management: Introduction, self paced tutorial produced on GitHub, please note: IN DEVELOPMENT.
 
 
 ## Presentations and Conferences
