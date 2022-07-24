@@ -2,7 +2,7 @@
 {% include sidebar.html %}
 
 I am a qualified librarian with diverse experience in Academic libraries from frontline customer service, information literacy instruction, acquisitions, and resource discovery. I have a flexible, proactive, and collaborative approach combined with a strong focus on quality outcomes for the end client.
-## Employment
+## Professional Experience
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Griffith University      | Head, Academic Engagement Services, Library        |2019 - Present|
