@@ -46,10 +46,11 @@ I am passionate about the positive impact libraries have on university outcomes 
 - Effective Database Searching - Sway Presentation 
 - Online Referencing Activity for Human Services and Social Work - Sway Presentation - Over 23,000 views
 - EndNote Basics Tutorial (joint project)
-- 
+
 
 ## Presentations and Conferences
 - Systematic Reviews for Griffith Sciences: challenges and opportunites, Australia and New Zealand STEM Librarians Webinar June 2022
 - How’s that for timing? The introduction of Teams Online consultation at Griffith Library. ALIA Survival Webinar Series June 2020 
+- Higher Education Academy (HEA) experience and digital badges. Video presentation at the request of Learning Futures, Griffith University
 
 This page was last updated {{ site.datelastupdated }} .
