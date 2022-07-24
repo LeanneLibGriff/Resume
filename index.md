@@ -33,7 +33,7 @@ I am passionate about the positive impact libraries have on university outcomes 
 | Graduate Diploma in Library and Information Managementment | UniSA |  2015 |
 | Graduate Certificate in Education | QUT  | 2022 |
 | Master of Education (in progress) | UniSA | ------  |
-| Associate Fellow | Higher Education Academy | 2020  |
+| Associate Fellow | Higher Education Academy (HEA) | 2020  |
 
 
 ## Awards
@@ -43,14 +43,15 @@ I am passionate about the positive impact libraries have on university outcomes 
 
 ## eLearning Resources
 - APA7 Referencing Support Videos 
-- Effective Database Searching - Sway Presentation 
+- Effective Database Searching - Sway Presentation - developed at the request of Dr Mark Avery for the Masters of Health Service Management
 - Online Referencing Activity for Human Services and Social Work - Sway Presentation - Over 23,000 views
-- EndNote Basics Tutorial (joint project)
+- EndNote Basics Tutorial, joint project with Librarians from Academic Engagement Services, responsible for videos four and five of the tutorial
+- Research Data Management, self paced tutorial produced on GitHub, please note: IN DEVELOPMENT.
 
 
 ## Presentations and Conferences
 - Systematic Reviews for Griffith Sciences: challenges and opportunites, Australia and New Zealand STEM Librarians Webinar June 2022
-- How’s that for timing? The introduction of Teams Online consultation at Griffith Library. ALIA Survival Webinar Series June 2020 
-- Higher Education Academy (HEA) experience and digital badges. Video presentation at the request of Learning Futures, Griffith University
+- How’s that for timing? The introduction of Teams online consultations at Griffith Library. ALIA Survival Webinar Series September 2020 
+- Higher Education Academy (HEA) experience and digital badges. Video presentation at the request of Learning Futures, Griffith University September 2020
 
 This page was last updated {{ site.datelastupdated }} .
